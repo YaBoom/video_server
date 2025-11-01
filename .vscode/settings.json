@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "camera.h": "c",
+        "complex": "c",
+        "istream": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "string_view": "c",
+        "iomanip": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "utility": "c",
+        "tuple": "c",
+        "videodev2.h": "c",
+        "fcntl.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "in.h": "c",
+        "cstring": "c",
+        "iostream": "c",
+        "streambuf": "c",
+        "cmath": "c"
+    }
+}

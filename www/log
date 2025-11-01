@@ -1,0 +1,142 @@
+iobuf->buffer : GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; zh-CN; rv:1.9.2.10) Gecko/20100922 Ubuntu/10.10 (maverick) Firefox/3.6.10
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+iobuf->buffer : ;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: GB2312,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+
+
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+iobuf->buffer : GET /style.css HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; zh-CN; rv:1.9.2.10) Gecko/20100922 Ubuntu/10.10 (maverick) Firefox/3.6.10
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-cn,zh;q=0.5
+Accept-Encoding: gzip,deflat
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+iobuf->buffer : e
+Accept-Charset: GB2312,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://127.0.0.1:8080/
+
+
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+iobuf->buffer : GET /example.jpg HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; zh-CN; rv:1.9.2.10) Gecko/20100922 Ubuntu/10.10 (maverick) Firefox/3.6.10
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.5
+Accept-Enco
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+iobuf->buffer : ding: gzip,deflate
+Accept-Charset: GB2312,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://127.0.0.1:8080/
+
+
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+iobuf->buffer : GET /?action=snapshot HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; zh-CN; rv:1.9.2.10) Gecko/20100922 Ubuntu/10.10 (maverick) Firefox/3.6.10
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.5
+Accept
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+iobuf->buffer : -Encoding: gzip,deflate
+Accept-Charset: GB2312,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://127.0.0.1:8080/
+
+
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+iobuf->buffer : GET /bodybg.gif HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; zh-CN; rv:1.9.2.10) Gecko/20100922 Ubuntu/10.10 (maverick) Firefox/3.6.10
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.5
+Accept-Encod
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+iobuf->buffer : ing: gzip,deflate
+Accept-Charset: GB2312,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://127.0.0.1:8080/style.css
+
+
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+iobuf->buffer : GET /sidebarbg.gif HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; zh-CN; rv:1.9.2.10) Gecko/20100922 Ubuntu/10.10 (maverick) Firefox/3.6.10
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.5
+Accept-En
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+iobuf->buffer : coding: gzip,deflate
+Accept-Charset: GB2312,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://127.0.0.1:8080/style.css
+
+
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
+Over _readline
